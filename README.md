@@ -11,6 +11,5 @@ Criação de uma plataforma de videos teologicos
 * 6 Explicando arquivo settings
 * 7 Criando modelo e adicionando tabelas no BD
 * 8 Adicionando modelo no Admin
-* 9 Configurando pastastatic e media
-
-13
+* 9 Configurando pasta static e media
+* Utilizado [Tailwid](https://tailwindcss.com/brand) e [Bootstrap](https://getbootstrap.com/) para coleta de arquivos de configuração css e forms e também fora importadas algumas imagens do [Drive](https://drive.google.com/drive/folders/1S0rKKFWEj35H0E1EanUwQqRyeWPI4h_B)
