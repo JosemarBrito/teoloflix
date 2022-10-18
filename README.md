@@ -17,3 +17,5 @@ Criação de uma plataforma de videos teologicos
 * finalizado aulas 13 -14 -15 -16
 
 * iniciado branch 3
+
+* Iniciado nova pasta de arquivos com clone
