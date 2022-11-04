@@ -16,3 +16,7 @@ Criação de uma plataforma de videos teologicos
 
 * [Ionic](https://ionic.io/ionicons) para colocar icones na pagina
 
+parado 
+Home  Cursos  Python Impressionador Transformando nossas Views em Classes
+09:47
+
